@@ -55,7 +55,7 @@ Configure and test basic firewall rules to allow or block traffic on a Windows s
 
 ## Video Demonstration
 
-- [`Telnet checking.mkv`](Telnet checking.mkv)  
+- [`Telnet checking.mkv`](Telnet%20checking.mkv)  
   A video walkthrough demonstrating the firewall behavior when Telnet port is Unblocked.
 
 ---

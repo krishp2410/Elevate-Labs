@@ -45,10 +45,10 @@ ping youtube.com
 
 ### PROTOCOLS SUCCESSFULLY IDENTIFIED
 
-#### TCP
-#### UDP
-#### DNS
-#### SSDP
+- TCP
+- UDP
+- DNS
+- SSDP
 
 ### SUMMARY
 #### A significant portion of the traffic involved communication with 23.212.160.122, which resolved to a domain related to Microsoft's content delivery network via Akamai. This included typical TLS handshake sequences: Client Hello, Server Hello, certificate exchange, and session establishment followed by Application Data.

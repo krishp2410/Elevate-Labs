@@ -22,15 +22,19 @@ Understand what makes a password strong and test it against password strength to
 
 ### Test on passwordmeter.com
 - krish123
+
 ![result1](imgs/result_1.png)
 
 - Krish@123
+
 ![result2](imgs/result_2.png)
 
 - K!r8h$29Yq
+
 ![result3](imgs/result_3.png)
 
 - >rM,6$Ai?p4
+
 ![result4](imgs/result_4.png)
 
 ### Tips learned from the evaluation: 

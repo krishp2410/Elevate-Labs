@@ -67,7 +67,7 @@ Learn to spot and remove potentially harmful browser extensions.
 - **Permissions:** None
 - **Site Access:** All
 
-
+---
 ### Extensions Reviewed 
 
 | Extension Name         |                              Permissions Summary                         |          Verdict          |
@@ -77,7 +77,7 @@ Learn to spot and remove potentially harmful browser extensions.
 | SteamDB                | No special permissions, limited site access to Steam-related domains     |Safe – Trusted             |
 | Video Speed Controller | No special permissions, access to all sites (typical for video controls) |Safe – Popular Tool        |
 
-
+---
 ### Action Taken 
  - Reviewed all installed browser extensions.
  - Checked permissions, purpose, and user reviews.
@@ -85,7 +85,7 @@ Learn to spot and remove potentially harmful browser extensions.
  - **FoxyProxy** is configured specifically for use with **BurpSuite** during security testing.
 
 
-
+---
 ### How malicious extensions can harm users
  - **Data Theft:** Steal passwords, cookies, and personal info by reading web page content.
  - **Spy Activity:** Track browsing behavior and send data to attackers.

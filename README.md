@@ -6,3 +6,4 @@
 # Task 5 : Capture and Analyze Network Traffic Using Wireshark. Completed ✅
 # Task 6 : Create a Strong Password and Evaluate Its Strength. Completed ✅
 # Task 7 : Identify and Remove Suspicious Browser Extensions. Completed ✅
+# Task 8 : Working and understanding VPN. Completed ✅
